@@ -1,0 +1,38 @@
+
+# .gitignore
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+.build/
+dist/
+build/
+
+# Environments & tooling
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & caches
+*.log
+.cache/
+pip-wheel-metadata/
+
+# Saved pages / scratch
+*.html
+*.htm
+downloads/
+tmp/
